@@ -1,6 +1,7 @@
 
 
 public class Search {
+
     public static int SearchELe(int[] arr,int ci,int sv )
     {
         if(arr[ci]!=sv)
