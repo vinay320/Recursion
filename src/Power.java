@@ -1,3 +1,4 @@
+// Power Fuction using Recursion
 import java.util.Scanner;
 
 public class Power {
